@@ -1,3 +1,5 @@
+#An attempt to build OpenSSL in FIPS mode in Buster
+
 FROM debian:buster-slim
 
 ENV PATH=/usr/local/bin:$PATH \
